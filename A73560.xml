@@ -1,0 +1,341 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The bloudy mother, or The most inhumane murthers, committed by Iane Hattersley vpon diuers infants, the issue of her owne bodie &amp; the priuate burying of them in an orchard with her araignment and execution. As also, the most loathsome and lamentable end of Adam Adamson her Master, the vnlawfull begetter of those vnfortunate babes being eaten and consumed aliue with wormes and lice. At east Grinsted in Sussex neere London, in Iuly last. 1609.</title>
+            <author>T. B. (Thomas Brewer)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1610</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 36 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A73560</idno>
+            <idno type="STC">STC 3717.3</idno>
+            <idno type="STC">ESTC S124650</idno>
+            <idno type="EEBO-CITATION">99900323</idno>
+            <idno type="PROQUEST">99900323</idno>
+            <idno type="VID">150808</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A73560)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 150808)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1982:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The bloudy mother, or The most inhumane murthers, committed by Iane Hattersley vpon diuers infants, the issue of her owne bodie &amp; the priuate burying of them in an orchard with her araignment and execution. As also, the most loathsome and lamentable end of Adam Adamson her Master, the vnlawfull begetter of those vnfortunate babes being eaten and consumed aliue with wormes and lice. At east Grinsted in Sussex neere London, in Iuly last. 1609.</title>
+                  <author>T. B. (Thomas Brewer)</author>
+               </titleStmt>
+               <extent>[22] p. : ill. (woodcuts)  </extent>
+               <publicationStmt>
+                  <publisher>printed by Iohn Busbie, and are to be sold by Artheur Iohnson in Paules Churchyard at the signe of the White Horse,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1610]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"To the reader." signed: Tho. Brew., i.e. Thomas Brewer--STC.</note>
+                  <note>Entered in Stationer's Register 8 Feb. 1610--STC.</note>
+                  <note>Caption title on A3r: The bloodie mother. Or The most inhumaine murthers of Iane Hattersley vppon diuers infants, being the issue of her owne bodie.</note>
+                  <note>Signatures: A-C⁴(-C4).</note>
+                  <note>Reproduction of original in the Harvard University Library, Cambridge, Massachusetts.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Infanticide --  England --  Early works to 1800.</term>
+               <term>Murder --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-09</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-10</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2011-10</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:150808:1"/>
+            <pb facs="tcp:150808:1" rendition="simple:additions"/>
+            <p>The Bloudy Mother. OR The moſt inhumane murthers, committed by <hi>Iane Hatterſley</hi> vpon diuers Infants, the iſſue of her owne bodie: &amp; the priuate burying of them in an Orchard with her Araignment and execution. As alſo, The moſt loathſome and lamentable end of <hi>Adam Adamſon</hi> her Maſter, the vnlawfull begetter of thoſe vnfortunate Babes, being eaten and conſumed aliue with Wormes and Lice. At Eaſt <hi>Grinſted</hi> in <hi>Suſſex</hi> neere London, in Iuly laſt. 1609.</p>
+            <figure>
+               <figDesc>depiction of the burial of an infant by the two accused</figDesc>
+            </figure>
+            <figure>
+               <figDesc>depiction of the wasting away in bed of one of the accused</figDesc>
+            </figure>
+            <p>Printed for <hi>Iohn Buſbie,</hi> and are to be ſold by <hi>Arth<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>r Iohnſon</hi> in Paules Churchyard at the ſigne of the White Horſe.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:150808:2" rendition="simple:additions"/>
+            <pb facs="tcp:150808:2"/>
+            <head>To the Reader.</head>
+            <p>
+               <seg rend="decorInit">Y</seg>Ou haue heere no tranſlated wonder, no far fetcht matter, no Engliſh lie, to paſſe for an outlandiſh truth: but a true relati<g ref="char:EOLhyphen"/>on of that that many tongues can wit<g ref="char:EOLhyphen"/>nes to thoſe that ambiguouſly ſhal ſtand to withſtand it. If it broght not with it that probabili<g ref="char:EOLhyphen"/>tie that it doth, I could not blame any that ſhold haue a ieloſie or miſtruſt of the certaintie of it; for we haue had ſome peices that haue had faire ſtampes, but the ſtuffe has bin counterfeite. But this I cannot ſuſpect can be ſuſpected by any (after they haue read it:) For firſt, the nearneſſe of the place where theſe cruelties were executed: ſecondly the time: thirdly the rumour hath bin ſpread of it: and laſtly the names of thoſe that at the bench gaue euidence againſt them, perſons (for the moſt part) of good ſufficiencie, yet liuing, cannot but inforce a beleefe in any that haue ſence to ſen<g ref="char:EOLhyphen"/>ſure vpon ſuch manyfeſt markes of veritie.</p>
+            <p>Such it is, as mothers with wet eyes, and Fathers with grieu'd hearts may receiue: for with the cheife of many precedent ſoule-confounding miſcheifes, this may ſtand, to ſhevv (with terror) the bloody and moſt dangerous events of luſt, and ſuch libidinous liuing.</p>
+            <closer>
+               <signed>Tho. Brew.</signed>
+            </closer>
+            <pb facs="tcp:150808:3" rendition="simple:additions"/>
+            <gap reason="duplicate" resp="#OXF" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:150808:3"/>
+            <gap reason="duplicate" resp="#OXF" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+         <div type="illustration">
+            <pb facs="tcp:150808:4"/>
+            <p>
+               <figure>
+                  <figDesc>depiction of person standing over a pile of bodies</figDesc>
+               </figure>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:150808:4"/>
+            <head>The bloodie Mother. OR The moſt inhumaine murthers of <hi>Iane Hatterſley</hi> vppon diuers infants, being the iſſue of her owne bodie.</head>
+            <div type="part">
+               <p>
+                  <seg rend="decorInit">H</seg>Appie is that man whome o<g ref="char:EOLhyphen"/>ther mens harms maketh to be wiſe. I happie, and thriſe happie is he indeed: but ſuch is the folly of men in this our vnhappie age, that though they ſee the moſt heauie and lamenta<g ref="char:EOLhyphen"/>ble ends of thouſands of hell-charmd malefactors, yet they will not learne good from their ill, nor to be wiſe by their folly.</p>
+               <p>Sinne, like a ſubtill and moſt cunning adulator, comes vpon vs with a faire looke, and a tongue full of moſt fine words and phraſes, promiſing all happineſſe and ſweet content at his entrance; and with that promiſe haſtilye gets to the heart of man; where hauing once got firme footing, he ſtaies, till the moſt bitter and formenting contraries of his promiſed, euen kill the hart he takes hold on.</p>
+               <p>O how happy is he, that ſeeing the foule ends of folly, and vngratious actions a farr off, feares leaſt the temptation and thought, which was the <hi>Embryon</hi> of that euill, inſinuate, and creepe into his heart: and fearing praiſe for aſſiſtance to him that helps, whoſoeuer calles vpon him for helpe: one cole of fire is eaſily quenched, when many are hardly, or neuer extin<g ref="char:EOLhyphen"/>guiſht, till they haue confounded the matter they light on: So ſinne, while tis but a ſparke, with eaſie oppoſition may be expeld the hart and minde of man: but ſuffered to feed vpon the fewell Sathan caſts in, and ſo to <gap reason="illegible" resp="#OXF" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> ſpread it ſelfe in furious <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ames, will be the dire fall an<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>uſion of his ſufferer.</p>
+               <pb facs="tcp:150808:5"/>
+               <p>What heauie ends follow light beginnings, we may eaſily ſee, &amp; not goe farre to finde them; for alas, the multiplicity of ſin, ſhews it in euery corner. As for example: many there be that amongſt their cannes, halfe cannes, and moſt vnhealthfull healths, haue falne from ordinarie &amp; familiar conference to high and opprobrious ſpeeches: from ſuch words, to blowes: from blowes to ſtabs: ſo in blood, and hemp, haue made an vn<g ref="char:EOLhyphen"/>timely and heauie deuiſion of their ſoules and bodyes.</p>
+               <p>Some entring into play, thinking at the enterance vppon nothing but the ordinary end; vpon ſome pettie, ridiculous, and moſt childiſh occaſion, haue entertaind anger, and in that madneſſe, (for indeed it is ſo) one has bin ſent to his graue, and the other to the gallowes.</p>
+               <p>Some taken in the ſtronge entangling nette of a beautious looke, haue ſo <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>bord for their maintenance, and ſecuritie in that moſt dangerous pleaſure, that they haue drawne vpon themſelues, an vnexpected reward: for the reward of their la<g ref="char:EOLhyphen"/>bor has bin the horror of their conſciences, the greife of their friends, and the ſhortning of their owne dayes, with ſhame and bitterneſſe.</p>
+               <p>Thus much haue I ſaid, to excite men at the very beginning, and entrance of ſinne to behold it, with an eye of perfect iudgement and thoughts of a heauenly temper, that this Ser<g ref="char:EOLhyphen"/>pent, with an Angelles forehead and a diuells taile, may not be ſuffered to creepe in, to his confounding labor.</p>
+               <p>But now to my bloody and heauie ſubiect: In <hi>Suſſex</hi> in a towne cald Eaſt <hi>Grinſteed,</hi> dwelt one <hi>Adam Adamſonne;</hi> a man that for his yeares, place, and ſufficiencie in eſtate of liuing, was in good account and recconing amongſt his neighbours, But men can but ſee as men; the eye of man, cannot peirce or prye into the thoughts and intent of man; neither can it giue the hart intelligence, but from outward behauiour and work<g ref="char:EOLhyphen"/>ing: And therefore right eaſily may the iudgements of men be deceiued: for moſt common it is for man, to ſeeme that he ſhould be, and be that he ſhould not <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſo deceiuing (as I ſaid) the ho<g ref="char:EOLhyphen"/>neſt coniectures and iudgements of men, by a falſe and adulte<g ref="char:EOLhyphen"/>rate appearance; as in this <hi>Adam Adamſonne</hi> is apparant:
+<pb facs="tcp:150808:5"/> for with a ſhew of honeſtie and good dealing, he couered a maſſe of diſhoneſt and putrified cogitations: amongſt which, the moſt ranke and corrupted, were of luſt.</p>
+               <p>He had a wife, but the vigor and ſtrength of luſt, carried his loue from her to a ſeruant he kept; who was as fitt for his thoughts (in affibilitie and eaſie yeelding) as if ſhe had ſpent an apparentiſhip in a houſe of ſuch trading, as train<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> ſuch as ſhe to ſuch damnable ſeruice and imployment.</p>
+               <p>So much he doted vpon this ſtrumpet, that all the loue and kindnes that was fully due to his ligitimate bed-mate, ſhe was miſtris and commaundreſſe of: what ſhe commaunded muſt be performed; what ſhe requeſted, muſt be prouided; and what ſhe was diſpleaſd with, to pleaſe her muſt be remoued: her will was <hi>Adamant</hi> and his <hi>Iron,</hi> which followed the at<g ref="char:EOLhyphen"/>traction of hers, to the very vtt<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ermoſt of her pleaſure: and often to make her the more prone and apt to his will, he would pro<g ref="char:EOLhyphen"/>miſe her when his wife dyed, to make her his wife: which pro<g ref="char:EOLhyphen"/>miſe ſo wrought in her minde, that ſhee thought euery day a yeare till ſhe might ſee the laſt gaſp of her Dame.</p>
+               <p>So long were theſe thoughts ſuffred, without a gracious reſiſtance, that they grew to that ſtrength, that they ſtird her to ſhew the fowlnes of them in action: but the Lord ſo guarded the innocent wrong'd wife of <hi>Adamſon,</hi> that ſhe could not haue the power to performe her diuilliſh purpoſe.</p>
+               <p>Six weekes ſhe bare poyſon in her purſſe, to ſpice hir dames drinke withall, in which time ſhe made many faire (or rather moſt damnable foule) proffers; but all were moſt ſtrangely, and admirably fruſtrated by the will of the almighty ſearcher of harts and reines, who ſaw and preuented euery wicked and vngodly attempt of hers. When ſhe ſaw that ſhe was ſo oft and ſo ſtrangely preuented ſhe reſolud to giue ouer that purpoſe, and in that reſolution, ſhe threw her poyſon into the fire and burnt it.</p>
+               <p>Many yeares did this olde Lecher maintaine this young <hi>Lena</hi> in this obſcure and moſt foule ſinne, in ſo thick a cloud of ſecrecie, as the diuell makes fit, to helpe thoſe that labour in the buſines that is ſweete &amp; pleaſing to him, for ten or twelue
+<pb facs="tcp:150808:6"/> harueſts haue they reapt the moſt wicked pleaſures of their vn<g ref="char:EOLhyphen"/>godly luſt. In which time, the ful number of the babes they haue had, cannot be knowne, but three ſhe confeſt, beſides one that is yet liuing.</p>
+               <p>Of the firſt of her loads of woe and ſhame, (being by <hi>Adamſon</hi> turnd off, for that he ſuſpected ſhe made another partner with him in his loathſome libidinous ſinne) ſhe lay in the houſe of one goodman King, who with his wife ignorant of her ignomi<g ref="char:EOLhyphen"/>nous courſe of liuing, and preſent eſtate of bodie, had enter<g ref="char:EOLhyphen"/>taind her very kindly.</p>
+               <p>But as ſhe deceiu'd them, ſhe deceiu'd many, for ſhe ſo cun<g ref="char:EOLhyphen"/>ningly blinded the eyes of people, in the time that her ſinne muſt needs appeare, with looſe lacing, tucking, and other odde tricks that ſhe vſed, that to the very inſtant minute of her deliuerie, none could perceiue ſhe was with childe.</p>
+               <p>This Good-man King, and his wife (as thriftie perſons vſe to doe) left their bed very early euery morning, and <hi>Iane</hi> to lye by it at her pleaſure.</p>
+               <p>It chanced ſo one morning, being thus left alone, that a neighbors wife, comming to ſpeake with goodwife King, found her in hard trauaile with child: which (with an aſtoniſht mind) perceiuing, ſhe preſently ran to Kings barne, where ſhe found him at his labour.</p>
+               <p>To him ſhe very haſtily, as halfe affrighted with that ſhe had ſeene, tould all, deſiring him to call his wife and goe hen<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<g ref="char:punc">▪</g> he preſently left his worke and went with her, and before they came to his doore they met his wife, then altogether going haſtily home, they met this common &amp; moſt impudent baſtard<g ref="char:EOLhyphen"/>bearer, co<g ref="char:cmbAbbrStroke">̄</g>ming out of the dores with the prety infant, that euen that minute was come from her poluted womb, into this world, and that then ſhould haue bin tenderly laid and louingly looked vnto, moſt carleſly wrapt vp in her apron, intending (as we may bouldly imagine) in ſome impuous and execrable ſort to haue made it away.</p>
+               <p>But that intent was by the bleſſed will and pleaſure of God moſt happily preuented, by theſe perſons.</p>
+               <p>Very kindly at firſt, conſidering her caſe, they deſired to ſee
+<pb facs="tcp:150808:6"/> what ſhe had in her apron; but <hi>Iane</hi> knowing the perill of it, told them ſhe had nothing there but a few foule clothes ſhee had looked vp to haue waſht, and ſo would haue paſt by them.</p>
+               <p>But they by no meanes, would ſuffer her to paſſe; inſo<g ref="char:EOLhyphen"/>much that ſhe fell to ſtriuing with them for paſſage.</p>
+               <p>In this ſtrife, the poore infant, ſo vnnaturally laid, by his moſt vnaturall mother, (in a pittifull ſhreeke) did as it were, tell his preſeruers, that ſhe told a wicked and villanous vn<g ref="char:EOLhyphen"/>truth.</p>
+               <p>They hearing the cry of the infant, violently tooke it from her, and after they had it, with kind vſage requeſted her to ſhow the womanhood that in that caſe was requiſit; and not to ſhame her ſelfe, and bring a ſcandalous imputation vpon her ſex, by her obſtinacie, and ſtuborne wildnes.</p>
+               <p>After many honeſt and faire perſwaſiue ſpeeches, they got her in a doores, and laid her in her bed, good-wife King very carefully tended her, and miſtruſting ſhe would doe ſome miſ<g ref="char:EOLhyphen"/>cheife to that vnhappy iſſue, of her loynes, ſhe nightly lay with her.</p>
+               <p>Fiue or ſix nights ſhe was her bedfellow, in which time ſhe perceiud in her no intent of euill againſt the infant, ſo that then ſhe made boulder to riſe from her, then at the firſt ſhe vſd to do.</p>
+               <p>But (oh greefe to relate it) ſhe was no ſooner out of the houſe, but this ſhame of women tooke that from her ſweet infant, that all honeſt mothers ſtriue, with all tender, louing, and diligent induſtry to preſerue and maintaine.</p>
+               <p>With that hand that ſhould haue tenderly fed it, and giu'n it that ſhould haue maintaind the breath, ſhe more then Tyger<g ref="char:EOLhyphen"/>like, ſtopt the breath. O cruell mother, O griefe to mothers, O wretch moſt wicked, vnworthy the name of a mother.</p>
+               <p>Mothers haue harts of war that melt and conſume in the heate of ſorrow, that comes by the wrong of their children: and eyes (that like full fountaines) in aboundance of teares, ſhew the greefe and anguiſh they ſuffer for the leaſt wrong their children ſuffer.</p>
+               <p>But this wretch had a hart of ſteele, and eies of marble, ſo indurate, that no motion of heauen, or ſparke of humaine pitty,
+<pb facs="tcp:150808:7"/> could be ſeene or perceiued in them.</p>
+               <p>Long this woman (though too long) ſtaid not in the buſines ſhe went to, but returning ſhe found a heauie obiect, the babe by his mother breathleſſe, with the mouth of it all <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oyld with fome, that roſe by her violent wringing.</p>
+               <p>This ſight ſtruck her with ſuch a ſtrange and inexcogitable amazment, that ſhe could not perfectly tell, whether ſhe ſaw that ſhe ſaw or no, but ſtood as if her ſences had loſt their power and operations: for ſhe knew ſhe left the child perfectly well, and to ſee it ſo ſuddainly dead, (for ſhe was not an houre ab<g ref="char:EOLhyphen"/>ſent) ſhe lamentably wondred.</p>
+               <p>This honeſt woman, maruelouſly incenſed againſt her, by the death of the infant, preſently ran and fetch'd the conſtable, and other neighbours, to ſee that eye-wounding ſpectacle, but before ſhe (with them) could returne, this moſt wicked of all precedent wickednes, had ſo wrought vpon the child, to clenſe &amp; trim it, that there was no ſigne of ſuch a hand as is miniſter to a hell-hardned hart, to be found vppon it: ſo that the babe, (ignorantly) taken to be ignorantly ouer laid (for ſo <hi>Iane</hi> bouldly &amp; deeply ſwore it was) was without any great adoe, there buried. Goodwife King preſently giuing her ſuch things as were hers, except a gowne ſhe ſtopt for ſome arrerages, or mony due for ſome matter, turnd her out of her dores.</p>
+               <p>
+                  <hi>Iane</hi> preſently, notwithſtanding the ſpleene of her maiſter, in his iealious humor went vnto him, &amp; after a fewe faire words and kinde promiſes, was as ſtrongly poſſeſt of his filth-affect<g ref="char:EOLhyphen"/>ing fauour and friendſhip as euer ſhe was before: where with a face artificially ſet deſembling, ſhe made a very ſore complaint of very great and greiuous abuſe offered her by goodman King and his wife, and how they kept her gowne from her.</p>
+               <p>Theſe words of hers, ſtird the blood of <hi>Adamſon</hi> ſo ſtrongly, (in which he ſhewed the ſtrength of the loue he bar<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> he) that preſently he got them iointly areſted, and ſo wrapped them (as I may ſay) in the law, and wrought vpon that wrapping, that in reuenge of his harlot, like a man vtterly void of all ſence or feeling, either of the ioyes of heauen, or woes of hell, he did vt<g ref="char:EOLhyphen"/>terly vndoe this poore couple.</p>
+               <pb facs="tcp:150808:7"/>
+               <p>As ſoone after this as nature will ſuffer, miſtruſted to be with child, ſhe was ſearched by women, and found to be ſo: yet againſt them all, with bitter and vehement othes, ſhe ſtood in it they wrongd her, and were ignorant in that knowledge, in giuing that iudgement vppon her, ſwearing ſhe was as cleare from that ſtate or the cauſe of it, as ſhe was in her cradle.</p>
+               <p>But within a while after, (as great breakers vſe to doe) ſhee plaid leaſt in ſight, for the ſpace of foure or fiue dayes, no neigh<g ref="char:EOLhyphen"/>bour could haue a ſight of her: all which time, ſhe lay to be de<g ref="char:EOLhyphen"/>liuered of the loade that made her load her ſoule, with periurie, in <hi>Adamſons</hi> houſe.</p>
+               <p>This infortunate fruite of luſt, and vnlawfull pleaſures, was no ſooner borne, but by the hand of the bloody mother it was murthered, and by the cunning of the cruell father, moſt ſecretly buried in a graue of his owne making, by the ſide of a Box tree, in his orchard, which orchard not long after he ſould to one <hi>Edward Duffield:</hi> which done, ſhe preſently (to wipe of the ſtaine of ſuſſpition) ſtept from her bed (the bed that honneſt wo<g ref="char:EOLhyphen"/>men cannot ſtepp from ſo lightly, neither if they could would, in decencie and woomanhood) to her ordinary walkings.</p>
+               <p>She was (I ſay) preſently ſeene abroad againe well, and ſo luſtie, as if ſhe had no ſuch ſtrength-abating pang, as was iuſtly ſuſpected, and ſhe truly ſuffred to haue made her carrie a con<g ref="char:EOLhyphen"/>trary appearance.</p>
+               <p>But common it is that ſuch common peices, can beare it out better then true and lawfull bearers of children can.</p>
+               <p>
+                  <hi>Adamſon</hi> vppon this, cunning in their villanie emboldned, (to caſt this and other ſuch like rubbes out of the way of their wickedneſſe) impudently like a true brazen fac'd founder, oppoſd himſelfe againſt her ſearchers, and all ſuch as mutterd in ſuſpi<g ref="char:EOLhyphen"/>tion againſt her, with peremptory ſpeeches, oathes and threa<g ref="char:EOLhyphen"/>nings, which carried ſuch a ſhew of innocencie and clearneſſe, that for that time he carried himſelfe cleare from the danger due to ſo foule and moſt vild a tranſgreſſion.</p>
+               <p>The ſhame of her priuie offending, a third time growne to ripeneſſe, ſhe was laid in her old receptacle of ſinne, (<hi>Adamſons</hi> houſe) very priuatly? to which iuſt vppon the time of her paine
+<pb facs="tcp:150808:8"/> in that buſines, came one <hi>Fraunces Foord,</hi> the wife of one <hi>Iohn Foord</hi> a neighbour to buye bread, who hearing ſome lowe de<g ref="char:EOLhyphen"/>preſt cryes and grones from <hi>Iane;</hi> thinking ſhe had bin diſſeaſed by ſome ordinary infirmitie, went vp: but ſhe was no ſooner entred into the roome where <hi>Iane</hi> lay, but <hi>Iane</hi> very ſodainly (fearing ſhe would bewray her) requeſted her to goe downe into the parler to ſet her nekercher, which <hi>Foords</hi> wife did; and when ſhe had don, (miſtruſting no ſuch thing, as they feared ſhe would finde) went vp againe to her chamber, but ere ſhe could get to the top of the ſtaires, the chamber doore was ſhut againſt her by the wicked woman that was hir'd by her and her maiſter to keep her in that caſe, and to keep that wickednes for euer concealed. This goodwife <hi>Foord,</hi> thus withſtood in her kindneſſe, marueiled, but made no words about it, yet miſtruſt<g ref="char:EOLhyphen"/>ing ſhe knew not what, ſhe went not downe, but ſtaid and peept through the key-hole of the doore: through which ſhee ſaw <hi>Iane</hi> (very warme wrapped) ſet in a wicker chaire by her beds ſide, with a look bewraying very great debilitie and faint<g ref="char:EOLhyphen"/>nes of body: and not farre from, was a good fire to comfort her and to make ready ſuch things as might comfort her.</p>
+               <p>Yet, nothing miſtruſted <hi>Foords</hi> wife, that ſhe ſate then gro<g ref="char:EOLhyphen"/>ning vnder the Annuall, or yeerely woe of a woman.</p>
+               <p>But long ſhe ſtood not thus, ere ſhe heard the weake ſhrike of a new borne infant, and ſawe in the hands of the keeper, a bole-diſh, in which was the after birth of a child, and other perſpicuous and euident tokens of a child borne at that inſtant.</p>
+               <p>Hauing ſeene this, to keepe it from their knowledge, ſhe ve<g ref="char:EOLhyphen"/>ry eaſily went downe the ſtaiers, and after a little ſtay, hearing the chamber doore open, vp againe, and ſuddainely (to preuent auother preuention) into her chamber: And there (without any ſhew of any thing that might bewray her knowledge) ſhe ſtood talking with <hi>Iane</hi> halfe an houre: in the time of which confe<g ref="char:EOLhyphen"/>ence, her eye and eare were buſie, to find that ſhe ſawe through the key hole; but ſhe could neither ſee what ſhe had ſeene, nor heard what ſhe had heard: for all was moſt cunningly cleard by her conning keeper.</p>
+               <p>This child, as by manifeſt and probable circumſtances
+<pb facs="tcp:150808:8"/> appeard at her triall, <hi>Adamſon</hi> (after they had by moſt vile and inhumaine violence, taken the breath from it, that but then it had receiued) in the dead of night (friend to rape &amp; murther) bu<g ref="char:EOLhyphen"/>ried in an vnknowne graue as the former.</p>
+               <p>And this villainie, as the former, he with his countenance, as oppoſd againſt the weake words of <hi>Foords</hi> wife by reaſon of want of greater proofe then her owne ſpeeches, he eaſily paſt ouer, and they ſlept as ſecurely for all this ſtart, in their horrible vncleaneſſe as before.</p>
+               <p>Still progreſt this moſt graceleſſe, audatious and impudent beaſt, (too bad to beare the good name of woman) in this ſinne, with all impudencie.</p>
+               <p>This <hi>Chimera,</hi> with a Lions vpper-part in bouldneſſe: a <hi>Goates</hi> middle part in luſt: and a Serpents lower part in ſting and poyſon.</p>
+               <p>Not long after this (for there were no greater Interims, be<g ref="char:EOLhyphen"/>tweene their great bellies then muſt needs be) the maturitie of her wombe, ſhewed it ſelfe againe in ſwelling, which with a greater circumſpection, then before was looked into, many eies attended it to ſee the euent, and finde the euents of former.</p>
+               <p>But ſhe perceiuing ſhe was ſo narrowly pryed into, fearing they would finde that they ſought for (her forepa<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> villanie) ſhe left her maiſters houſe; and went to <hi>Darking,</hi> to one <hi>Crab</hi> a Tailor, who had married a ſiſter of hers, &amp; in his houſe, ſhe was deliuered of a child, which was put to nurſe to one <hi>Thomas El<g ref="char:EOLhyphen"/>lis,</hi> who tenderly tended it.</p>
+               <p>There ſhe was too farre from the murdering hand, or cun<g ref="char:EOLhyphen"/>ning braine of her maiſter, to ſerue it as ſhe had ſerued his fellowes: nay this babe had ſuch bleſt fortune, that inſteed of the cruelltie, his poore bretheren or ſiſters had from his lawleſſe begetter, he had kindneſſe and comfort, for he allowed the nurſe a good cow to giue her milke, that the allowance of the child might be the better.</p>
+               <p>Many great bellies had ſhe, beſides theſe here ſpoken of, but the vnhappie loads of them could neuer be ſeene: by which we may iuſtly think<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, and perfectly in reaſon, knowe,
+<pb facs="tcp:150808:9"/> that there were many more murders, then are in theſe leaues laid open: for (as I haue before ſaid) for the ſpace of ten or twelue yeares this wicked couple continued vndetected, in theſe abho<g ref="char:EOLhyphen"/>minable ſinnes of luſt and murder.</p>
+               <p>Many times did <hi>Adamſon,</hi> with his owne tongue giue cauſe of a ſuſpition for three or foure times, as <hi>Edward Duffell</hi> wrought in his Orhcard (which as I haue before ſaid was <hi>A<g ref="char:EOLhyphen"/>damſons</hi>) he was earneſtly requeſted and ſometime ſtraightly charged, not to digg neere the Box tree: he not miſtruſting ſuch a thought as raiſd that prohibition, maruailed; yet not know<g ref="char:EOLhyphen"/>ing what to make of it, let it paſſe without any further think<g ref="char:EOLhyphen"/>ing vppon it.</p>
+               <p>But ſee the goodneſſe of the <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eare of euery ſecret: within a ſmall time after this (vppon what occaſion I know not) <hi>Adamſon</hi> &amp; <hi>Iane</hi> were at high words, and very bitter reuilings paſt from one to another. In which windie battails, <hi>Iane</hi> cald her maiſter murderer, in the hearing of many neighbours, and that not once or twice, but itterated and reitterated it, very freely &amp; bouldly: and to this added, that there was that yet hid<g ref="char:EOLhyphen"/>den, that would hang him. And that there was a tree in <hi>Duffels</hi> orchard, which if it could ſpeake, would ſend him to the gallows.</p>
+               <p>Theſe words in the vehemencie of anger ſhe vttered, for thus it pleaſed him that made <hi>Balaams Aſſe</hi> to ſpeake, that beaſt, to make the beaſt ſpeake to open the way to their deſtruction: for hereupon <hi>Edward Duffel</hi> tooke diuers of his neighbours, and (remembring that many times he had bin warned not to digg neere the Box tree) went then and diggd about it, to ſee if there were any ſuch thing as they ſuſpected ſhould be, by her ſpeeches.</p>
+               <p>Small digging ſeru'd to bewray their wickedneſſe, for he had not digd a full foot deepe, eare he found many ſmall bones, which bones, not long after, before Iuſtices and men of account, were prooud (to barr al oppoſite obiections) by the skill of a cun<g ref="char:EOLhyphen"/>ning and very expert <hi>Anothomiſt,</hi> to be the bones of a child.</p>
+               <p>Vppon this (in a word) <hi>Adamſon</hi> and his ſeruant <hi>Iane</hi> were apprehended, &amp; ſent to <hi>Horſhan</hi> gaole ſome ten or twelue miles from <hi>Greenſteed:</hi> but <hi>Adamſon</hi> vpon bands and good
+<pb facs="tcp:150808:9"/> ſecurity to anſwers all that might be obiected againſt him at the Aſſizes, was in a litle time from thence releaſed, and had his li<g ref="char:EOLhyphen"/>bertie to walke about his buſineſſe.</p>
+               <p>
+                  <hi>Iane</hi> lay not long there neither; ſhe was vppon bonds from thence releaſed <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oo: but her bonds were the bonds ſhe was bound in, &amp; her releaſe, but a remoue from thence to the Kings bench in ſouthwarcke, where while ſhe ſtaid, ſhe wanted nothing, for he that had bin kind and liberall to her in the time of her libertie, did not forget her in the time of her captiuitie.</p>
+               <p>But that he did at the firſt was in loue, the laſt in pollicie: for all he ſpent then vpon her, was onely to win her confidently to denie the words ſhe had ſpoken, &amp; to cleare him in her ſpeech<g ref="char:EOLhyphen"/>es: and as for herſelfe, he had her preſume vpon it, without fears or doubting, he would get her pardon.</p>
+               <p>But to preuent that, and all hope of it, ſhe was remoued from thence to Kingſton, from thence (to omit teadious recitall) to <hi>Greenſteed</hi> againe. And there againe <hi>Adamſon</hi> as before (For contrary to orders in that caſe inſtituted (whether by purſe or pollicie I know not) he had acceſſe vnto her in the gaole) labord hard with her to vnſay all her dangerous words againſt him; and to ſay that ſhe was to ſay at the Bench to the demands of the Iudges, for his clearing &amp; acquiting: &amp; withall, tould her that in ſo ſpeaking well in his behalfe, ſhe ſhould helpe her ſelfe in that danger.</p>
+               <p>And more ouer (for like waues our vpon the <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ck of another came words of inducement from him) if the worſt ſhould come that might, he would ſaue her with the Kings pardon.</p>
+               <p>And to make her beleefe and reſolution the ſtranger, he tould her, if ſhe did not doe as he counſeld her there was no leſſe to be expected by her then death: and backt it with this reaſon; that the leaſt ſillable vtterd in way of confeſſion, would fruſtrate the pardon he ſhould purchas<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e, and make it to be of no force or vertue.</p>
+               <p>Thus, a<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s ſince her execcution hath bin <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ound, did he very cunningly, &amp; as cloſely worke vpon her ſimplicitie, and effected his wiſhes, in her moſt wicked and impious credulity; for ſhe beleeuing all he ſpake, and making no doubt of the performance,
+<pb facs="tcp:150808:10"/> with a face ſet to the higheſt key of impudencie, was at the Bench very readie in the leſſon he had taught her: ſo that he was by the Iurie acquitted, but ſhe condemned and adiug'd to the gallowes: which ſentence (preſuming vpon her maiſters pro<g ref="char:EOLhyphen"/>miſe) ſhe heard with an vndaunted heart.</p>
+               <p>To be ſhort, ſhe was according to her iudgement, vppon, or about the ſixt of <hi>Iuly</hi> 1609. carried to the place of execution, where ſtil expecting the pardon <hi>Adamſon</hi> tould her ſhould come to the gallowes and ſaue her, ſhe was as ſtout and feareleſſe, as if ſhe had bin but (like a ſtage player) to act the part in leaſt.</p>
+               <p>But when ſhe had ſtaid ſo long, ſhe might ſtaie no longer from the halter, her hart began to fall, and feare to riſe, yet re<g ref="char:EOLhyphen"/>membring that he had ſaid, a word in confeſſion ſhould fruſtrate her pardon which (notwithſtanding) in the laſt minute of her breath ſhe expected (and fearing ſo to preuent it) ſhe would ſay nothing but in that feare, and hope of life, euen in the rope ſhe gaue the hangman ſix pence to cut her downe quickly: for ſhe (ſimple wench) thought verily though ſhe were turnd off, before ſhe could be halfe dead, the pardon would come, &amp; ſaue her in that heauie gaſping: but her beleefe was vaine, and her vaine hopes were deceiued, for as ſhe deſerued ſhe there died.</p>
+            </div>
+            <div type="part">
+               <p>BVt now you haue, with the eyes of your vnderſtanding, ſeene the moſt iuſt and deſerued end of her, turne them a<g ref="char:EOLhyphen"/>gaine to <hi>Adamſon,</hi> who preſently after her execution, fell into a moſt miſerable, greeue<g ref="char:EOLhyphen"/>ous and lamentable conſumption.</p>
+               <pb facs="tcp:150808:10"/>
+               <p>Wormes meate we are al in death, but he in life, was (by the iuſt iudgement of God (which God make vs all haue an eye to) a prey to theſe deſpicable and deuouring creatures, which had intrenched them<g ref="char:EOLhyphen"/>ſelues in many parts of his bodie to the bone, and minutely, and ſo mercileſly, with eager appetites fed vpon his afflicted fleſh, as though he had bin laid onely but but for one meale to be deuoured.</p>
+               <p>Lice in great multitudes tormented him: no ſhift in <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>innen, nor other coſtly ſhift in trimming, picking &amp; annointing, could de<g ref="char:EOLhyphen"/>creaſe y<hi rend="sup">e</hi> innumerable number of them: and ſo loathſome a ſauour came from his body, that thoſe that went to ſee him could not ſtand to giue their eyes ſatiſfaction, for the greeuous and odious ſtrength of it: but turning as diſdainfully in the offence, or greeuance of that ſence) as from the in<g ref="char:EOLhyphen"/>fecting ſtench of carrion they would leaue him, ere they could well looke on him.</p>
+               <p>Thus for the ſpace of halfe a yeare lay he moſt greeuouſly tormented, in which time, he ſpent much mony, for a happie re<g ref="char:EOLhyphen"/>ſtauration or recouery, but all his coſt was loſt, for alas <hi>Cum Deo pugnare,
+<pb facs="tcp:150808:11"/> graue eſt:</hi> there is no ſtriuing againſt the will of God.</p>
+               <p>All his meanes were waſt and conſum<g ref="char:EOLhyphen"/>ed: for he neuer left conſuming till he was conſumed to ſkinne &amp; bone, and ſo lamen<g ref="char:EOLhyphen"/>tably ended his dayes about the begining of <hi>Nouember</hi> laſt.</p>
+               <p>Yf we looke well into this lamentable end of his, we ſhall finde a leſſon worth the looking into, and that is this: that though he could, by mony and freinds; or ſome falſe colour and couering, <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> his deſert from the hands of men, yet the Lord would not let him paſſe this world without a puniſhment, that like the <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> burſt out through the Fogg<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> &amp; cloudes of his diſſembling and priuie contriuing, to ſhew the world that he was not the inno<g ref="char:EOLhyphen"/>cent man that he would haue ſeemd to be.</p>
+               <p>Many that haue wit to ſhift, and craft to couer, thinke themſelues wiſe, but the Lord knowes they are fooles, &amp; ſo makes their end ſhew them. But to that we caſt not an eye, but (alas) being ſet in the race of our owne ruine we runne (like the <hi>O<g ref="char:EOLhyphen"/>nagrie,</hi> or wild <hi>Aſſe,</hi> of <hi>Mauritaunia,</hi> with ſuch dexteritie and ſtrength that till we
+<pb facs="tcp:150808:11"/> are breathleſſe we ſtoppe not till we are breathleſſe indeed: for til our breath leaues vs, we leaue not ſinning. O could we imi<g ref="char:EOLhyphen"/>tate him as well in the path of pietie, we ſhould haue heauen in our boſomes, I meane ſuch conſciences as (after this life) would aſſure vs of the euerlaſting beati<g ref="char:EOLhyphen"/>atitude of Angelles.</p>
+            </div>
+            <div type="exhortation">
+               <head>An exhortation.</head>
+               <p>IF the Apoſtle <hi>Peter</hi> illuminated by the ſpirit of God, in his time determined the conſumation of the world to draw nigh, and like the Lord of Hoſts his loyall Herault proclaimed thervpon to all the faithfull: Now the end of all things is at hand. If godly <hi>Cypryan</hi> many yeares after iuſtly thought, and taught, that the end of the world did hang ouer his head<g ref="char:punc">▪</g> ſweete <hi>Laotantius</hi> ſighed in ſpirit, &amp; ſaid it could not lack aboue two hundred yeares: and ho<g ref="char:EOLhyphen"/>ly <hi>Ierome</hi> (that obſerued a iournall, &amp; watched the houres of his life) had ſo certaine a perſwaſion of the ſuddennes, and nearenes thereof, that he euer ſeemed, to heare the ſound of the Troump of the latter day, ſounding this hea<g ref="char:EOLhyphen"/>uy note in his eares: <hi>Surgite mortui, venite ad iudicium:</hi> That is <hi>Ariſe ye dead and come to iudgement:</hi> all no doubt incited thereunto, and inlightened by the holy Gohſt: certes we <gap reason="illegible" resp="#OXF" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> good cauſe, that liue in theſe latter and dangerous dayes, ſtedlaſtly to beleeue for many cau<g ref="char:EOLhyphen"/>ſes; and eſpecially theſe three, that the ſecond comming of Chriſt cannot be farre off.</p>
+               <pb facs="tcp:150808:12"/>
+               <p>Firſt, for that all the propheſies of the Patriarkes, and Prophets, of all the auncients, yea, and of the <hi>Iewes</hi> them<g ref="char:EOLhyphen"/>ſelues, who yet idlely and ignorantly expect another Meſlias, ſo concordantly agree with this our after age, that the <hi>Orthodoxes</hi> ſo long ſince deceaſed, may ſeeme now to liue and beholde the ſtate of the dayes inſtant.</p>
+               <p>Secondly, for that all thoſe prodegies, and tokens fore<g ref="char:EOLhyphen"/>tolde by our Sauiour in the Goſpel, are now vniuerſally fulfilled in the worlde, and autentiquelly importe an vni<g ref="char:EOLhyphen"/>uerſall diſſolution of the world.</p>
+               <p>Thirdly, for that in the ſame place our Sauiour promiſeth to ſhorten thoſe dayes: and ſurely if (as there he promi<g ref="char:EOLhyphen"/>ſeth) for his elects ſake thoſe daies were not ſhortned, ſcant any fleſh ſhould be ſaued; for if we narrowly looke on the courſe of time, the manners of men, the ſta<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ting vp of falſe Chriſts, the vpriſe of counterfeyte Prophets, the contempt of Religeon, and vntowardnes of all things, we ſhall aſſuredly finde, that this our old writhen world, is altogether like to vnfruitfull, and drie ſtubble or chaffe, apt for nothing, but to be conſumed with fire, or as the Apoſtle <hi>Peter</hi> ſaith, the heauens, and earth that now are kept by the ſame word in ſtore, and reſerud vnto fire, a<g ref="char:EOLhyphen"/>gainſt the day of iudgement: Lord it is time, yea it is full and due time (fit were thy bleſſed will and pleaſure) that thou come to iudgement: Come thou <hi>Alpha</hi> and <hi>Omega,</hi> thou firſt and laſt, come Lord Ieſu, come quickly: For ſinne ouerfloweth, Iniquitie aboundeth, Faith fayleth, Hope fadeth, Loue freeſeth; in ſteade whereof Paganiſ<g ref="char:EOLhyphen"/>me, Deſpaire, and Murder are founded, and generally wickedneſſe flouriſheth, and vertue falleth.</p>
+               <p>But omitting all the reſt, this wilfull murderiug of Inno<g ref="char:EOLhyphen"/>cents
+<pb facs="tcp:150808:12"/> is iudged a moſt heynous iniquitie in the ſight of God, and amongſt all good men counted principall of thoſe ſinnes, whoſe lamentable clamours aſcend vp be<g ref="char:EOLhyphen"/>fore the maieſtie of God, &amp; inceſſantly yell out, greedily thirſting for reuenge.</p>
+               <p>Let vs therefore take warning by thoſe Cruell, bloudy, and libidinous bad liuers, whoſe horrid ſinnes calles ven<g ref="char:EOLhyphen"/>gance from heauen: and let vs deſire almighty God to haſten the latter day, to the comfort of his elect and glory of his moſt holy name</p>
+               <closer>Amen.</closer>
+               <closer>
+                  <signed>
+                     <hi>The names of the witneſſes.</hi>
+                     <list>
+                        <item>Maiſter Andrew Sackuill</item>
+                        <item>Edward Paine.</item>
+                        <item>George Drury.</item>
+                        <item>Steeuen Price.</item>
+                        <item>
+                           <hi>And Edward Duffield in whoſe orchard the bones of the murthered Infants were found.</hi>
+                        </item>
+                        <item>Goodwife King</item>
+                        <item>Goodwife Foord</item>
+                        <item>Goodwife Paine</item>
+                        <item>Goodwife Pulman</item>
+                        <item>Goodwife Kent.</item>
+                     </list>
+                  </signed>
+               </closer>
+            </div>
+            <trailer>FINIS</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
